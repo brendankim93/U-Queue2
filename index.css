@@ -1,0 +1,14 @@
+#logo {
+    padding-left: 10px;
+}
+
+#index-banner {
+    background-image: url("./images/RainbowDreams1.png");
+}
+
+#title-text {
+    text-align: center;
+    font-size: 30px;
+    padding: 180px;
+    color: white;
+}
