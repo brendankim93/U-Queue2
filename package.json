@@ -1,0 +1,23 @@
+{
+  "name": "u-queue2",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendankim93/U-Queue2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendankim93/U-Queue2/issues"
+  },
+  "homepage": "https://github.com/brendankim93/U-Queue2#readme"
+}
