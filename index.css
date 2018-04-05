@@ -3,7 +3,16 @@
 }
 
 #index-banner {
-    background-image: url("./images/RainbowDreams1.png");
+    background-image: url("./images/Family_restaurant.png");
+    background-repeat: no-repeat;
+}
+
+.header-text {
+    color: white;
+}
+
+.nav-edit {
+    background-color:navy;
 }
 
 #title-text {
